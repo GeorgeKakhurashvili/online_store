@@ -1,0 +1,43 @@
+*
+	{
+		margin: 0 auto;
+	}
+	body
+	{
+		overflow: hidden;
+	}
+	
+	#admin_con
+	{
+		height: 77vh;
+	}
+	#form7
+    {
+        width: 50vh;
+        height: 50vh;
+        
+    }
+    #registration
+    {
+    	width: 50vh;
+    	height: 100vh;
+    }
+    #dissmis
+    {
+    	width: 40vh;
+    	height: 40vh;
+    }
+    .backadmin
+    {
+        width: 40vh;
+        height: 10vh;
+        margin-top: 40vh;
+    }
+    .back_action
+    {
+        width: 40vh;
+        height: 5vh;
+        float: left;
+        margin-left: 6.5vh;
+        margin-top: 2.5vh;
+    }
